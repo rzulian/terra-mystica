@@ -233,7 +233,7 @@ sub deploy_data {
     }
 }
 
-deploy_docs;
+#deploy_docs;
 deploy_stc;
 deploy_cgi;
 deploy_data;
